@@ -24,5 +24,5 @@ You provide the payoff matrix **M** for Player 1 (rows); Player 2’s payoff is 
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Jollymancan/Zero-Sum-Nash-Learner.git
+cd Zero-Sum-Nash-Learner
