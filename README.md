@@ -1,4 +1,7 @@
 # Zero-Sum-Nash-Learner
+
+Check it out here: https://zero-sum-nash-learner.streamlit.app
+
 A small Streamlit app for experimenting with **approximate Nash equilibria** in 2-player **zero-sum** normal-form games, using a multiplicative-weights style learning dynamic.
 
 You provide the payoff matrix **M** for Player 1 (rows); Player 2’s payoff is automatically taken as **−M**. The app then runs the learning procedure and visualizes how the game value and exploitability evolve over time.
